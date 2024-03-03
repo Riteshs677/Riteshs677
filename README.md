@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Singh</h1>
 <h3 align="center">A passionate AI&DS Student (3rd).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshs677&label=Profile%20views&color=0e75b6&style=flat" alt="riteshs677" /> </p>
+<p align="left"> <img  width ="400px"src="https://komarev.com/ghpvc/?username=riteshs677&label=Profile%20views&color=0e75b6&style=flat" alt="riteshs677" /> </p>
 <img align="right" src="https://cdn.dribbble.com/users/3584845/screenshots/6714789/christmas.gif"/>
 - 🔭 I’m currently working on **langchain**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshs677&label=Profile%20views&color=0e75b6&style=flat" alt="riteshs677" /> </p>
 <img align="right" width ="400px src="https://cdn.dribbble.com/users/3584845/screenshots/6714789/christmas.gif"/>
-- 🔭 I’m currently working on **langchain**
+- 🔭 I’m currently exploring on **langchain**
 
 - 🌱 I’m currently learning **Artificial Intelligence & Data Science**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ritesh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/riteshsingh09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

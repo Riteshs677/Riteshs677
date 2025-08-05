@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **RiteshSingh1834@gmail.com**
 
-- 📄 Know about my experiences <a href="09portfolio.vercel.app" target="_blank" rel="noopener noreferrer">My Portfolio</a>
+- 📄 Know about my experiences <a href="https://09portfolio.vercel.app" target="_blank" rel="noopener noreferrer">My Portfolio</a>
 
 - ⚡ Fun fact **"I have a penchant for creative learning."**
 

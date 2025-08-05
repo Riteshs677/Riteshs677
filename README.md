@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshs677&label=Profile%20views&color=0e75b6&style=flat" alt="riteshs677" /> </p>
 <img align="right" width ="400px src="https://cdn.dribbble.com/users/3584845/screenshots/6714789/christmas.gif"/>
-- 🔭 I’m currently exploring on **langchain**
+- 🔭 I’m currently exploring on **machine learning**
 
 - 🌱 I’m currently learning **Artificial Intelligence & Data Science**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **RiteshSingh1834@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](09portfolio.vercel.app)
+- 📄 Know about my experiences <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">My Portfolio</a>
 
 - ⚡ Fun fact **"I have a penchant for creative learning."**
 
